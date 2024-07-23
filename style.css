@@ -105,18 +105,19 @@ position: relative;
     bottom: 0;
     margin: 60px 23%;
 text-align: center;
+align-items: center;
     
 }
 .inner-input{
    padding: 10px;
-   padding-right: 230%;
+   padding-right: 175%;
    border-radius: 25px;
-   background-color: rgb(80, 79, 79);
+   background-color: rgb(72, 72, 72);
    border: none;
-   color: rgb(253, 253, 253);
+   color: rgb(243, 237, 237);
 }
 .bi-arrow-up-circle{
-    color: rgb(143, 141, 141);
+    color: rgb(74, 74, 74);
     width: 40px;
     height: 40px;
     font-size: 35px;
@@ -129,5 +130,12 @@ text-align: center;
     git commit -m "First Commit"
      git remote add origin https://github.com/mallakuntatharunkumar/ChatGpt.git(Changes for evry repository)
      git push -u origin master
+     -----
+     git init
+     git add .
+     git status
+     git commit -m 'version5'
+     git push
+
 
 */
